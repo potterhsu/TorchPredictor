@@ -1,0 +1,14 @@
+nn.Sequential	
+nn.SpatialMaxPooling	
+kW	
+1	
+kH	
+1	
+dW	
+1	
+dH	
+1	
+padW	
+0	
+padH	
+0	

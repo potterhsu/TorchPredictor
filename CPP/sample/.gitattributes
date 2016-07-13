@@ -1,0 +1,4 @@
+vgg_face_model.tpa filter=lfs diff=lfs merge=lfs -crlf
+vgg_face_model.tpb filter=lfs diff=lfs merge=lfs -crlf
+vgg_gender_model.tpa filter=lfs diff=lfs merge=lfs -crlf
+vgg_gender_model.tpb filter=lfs diff=lfs merge=lfs -crlf
