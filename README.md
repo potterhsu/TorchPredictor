@@ -4,7 +4,7 @@
 
 * A C++ library for loading and predicting your model trained by Torch7
 * Only converting model needs Torch7, it's independence from Torch7 when running model
-* Just a little slower than Torch7
+* Reasonably fast, without GPU, just a little slower than Torch7
 * Currently CPU only
 
 ### Dependencies ###
