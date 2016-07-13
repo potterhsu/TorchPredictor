@@ -47,4 +47,4 @@
 
 ### Demo ###
 
-* See [TorchPredictDemo](https://bitbucket.org/PoterHsu/torchpredictordemo)
+* See [TorchPredictDemo](https://github.com/potterhsu/TorchPredictorDemo)
