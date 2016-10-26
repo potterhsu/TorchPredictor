@@ -26,7 +26,7 @@
 2. Get tpb model: run Ascii2BinaryModelConverter under tools folder
 3. See ModelForward under sample folder to load binary model (or you can just load ascii model)
 
-### Supported Networds ###
+### Supported Networks ###
 
 ##### Layers #####
 
